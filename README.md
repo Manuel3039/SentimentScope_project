@@ -1,2 +1,3 @@
-# SentimentScope_project
-Binary sentiment classifier for IMDB movie reviews using a compact PyTorch transformer. Achieves >75% test accuracy.
+# Purpose of this Folder
+
+This folder contains the scaffolded project files to get a student started on their project. 
